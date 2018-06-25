@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">IspratiCV</string>
+    <string-array name="companies_names">
+        <item>Johnson_Matthey</item>
+        <item>Tomato_Talent</item>
+        <item>Netcetera</item>
+        <item>AITONIX</item>
+        <item>Sorsix</item>
+        <item>HASELT</item>
+        <item>Navayo_Group</item>
+        <item>Sample_Solutions</item>
+        <item>MCA</item>
+        <item>SPD</item>
+    </string-array>
+
+    <string-array name="company_locations">
+        <item>41.986450,21.622475</item>
+        <item>41.999079,21.424915</item>
+        <item>42.003787,21.394930</item>
+        <item>41.992618,21.419002</item>
+        <item>41.994338,21.428306</item>
+        <item>42.000151,21.417412</item>
+        <item>41.987496,21.427586</item>
+        <item>41.996628,21.423933</item>
+        <item>41.994725,21.419076</item>
+        <item>41.999420,21.439319</item>
+    </string-array>
+
+    <string-array name="companies_email">
+        <item>mkjobs@matthey.com</item>
+        <item>contact@tomatotalent.com</item>
+        <item>info@netcetera.com</item>
+        <item>careers@aitonix.mk</item>
+        <item>jobs@sorsix.com</item>
+        <item>hajan@haselt.com</item>
+        <item>jobs.mk@navayo.net</item>
+        <item>info@samplesolutions.eu</item>
+        <item>jobs@mca.mk</item>
+        <item>info@spdcomputing.com</item>
+    </string-array>
+
+
+    <string-array name="companies_description">
+        <item>
+            We are pleased to announce open positions in our Internship Programme and we are now seeking pro-active students to join our Automation team, interested in full-time internship and gain valuable professional experience.
+
+Are you the ideal candidate?
+ - University students in IV year of studies or student of postgraduate studies (FINKI or FEIT)
+- Basic knowledge of Databases and Computer Programming Languages
+- Fluent in both verbal and written Macedonian and English language
+- Good communication and conflict resolution skills
+- Team player with good interpersonal skills
+- Self-initiative and proactive toward the work and given tasks
+- Commitment for results accomplishment
+        </item>
+
+        <item>
+            Tomato Talent is looking for Business Intelligence Interns in our Skopje office. As a BI Intern you will look at data we are collecting about our business operations and help us turn this data into knowledge that can be used to improve the way we work.
+
+You are Good At
+- Solving problems - you love taking on difficult challenges and finding solutions
+- Helping others - you enjoy helping others and want to
+- Working in a team environment
+- Logic and pattern recognition
+- Mathematics
+- the English language - you will work with colleagues in the London and Amsterdam offices
+
+Extra Awesome
+- You have taken courses in Probability and Statistics
+- Database experience (SQL)
+- Coding experience (Python)
+        </item>
+
+        <item>
+            For our branch in Skopje we are looking for interns for the summer of 2018.
+As an intern you will have a chance to work in project teams with motivated specialists and implement various solutions (Web, Mobile, machine learning, embedded, AR).
+What you bring in
+You are a student in computer science, like to work in a team, have good communication skills and are familiar or interested in some of:
+- design and implementation of web applications (Java, .NET, Javascript stack)
+- design and implementation of Android or iOS mobile applications
+- basic data mining and machine learning
+- Internet of Things, Connected Web and embedded development
+- virtual and augmented reality
+- bitcoin/blockchain and future payment technologies
+        </item>
+
+        <item>
+            AITONIX објавува конкурс за сите заинтересирани студенти на ФИНКИ да аплицираат за Практикантска програма за 2018, во која ќе бидат опфатени студенти од 3-та или 4- та година на студии (или се при крајот со истите) и сакаат да се стекнат со практично искуство во некоја од следните области:
+- развој на софтвер
+- сервисирање на хардевер и софтвер
+- маркетинг и продажба на ИТ опрема и уреди
+        </item>
+
+        <item>
+           Сорсикс Интернационал објавува конкурс за сите заинтересирани студенти на ФИНКИ да аплицираат за изведување на летна пракса за Веб Програмирање во времетраење
+
+Заинтересираните кандидати треба да аплицираат со кратко мотивационо писмо и CV, со назнака „Praksa za Web programming“, на нашата е-маил адресата доколку ги исполнуваат следните услови:
+* во студиската 2017/2018 година се студенти на додипломските (втора, трета или четврта година) или последипломските студии на Факултетот за информатички науки и компјутерско инженерство;
+* имаат солидно познавање од програмскиот јазик Java;
+* имаат одлично познавање на англиски јазик;
+* имаат чувство за одговорност и желба за тимска работа;
+* подготвени се посветено да ги извршуваат зададените работни обврски;
+* имаат желба за постојано стручно надоградување.
+        </item>
+
+        <item>
+            Софтверската компанија HASELT нуди летна пракса за сите заинтересирани студенти кои би сакале да ги прошират своите знаења во областа на развој на софтвер.
+
+4 отворени позиции: Software Engineer Intern
+
+За време на праксата, ќе се користат и изучуваат дел, или сите од следниве:
+- Programming languages: C#, TypeScript, SQL, HTML5, SASS;
+- Development approaches: Domain Driven Design, Extreme Programming, Continuous Delivery;
+- Main tech stack: ASP.NET Core, xUnit, AurelliaJS, PostgreSQL, Azure.
+Ќе се работи тимски, во постојана колаборација со менторот на програмата, но исто така и во соработка со сите колеги од Engineering тимот во HASELT. За време на праксата ќе се работи на реален проект и студентите ќе го изучат целиот процес на развој на едно софтверско решение. Програмата исто така вклучува и презентации и практични работилници на соодветните теми споменати погоре.
+        </item>
+
+        <item>
+            Navayo Groupобјавува отворени конкурси за работа и ги поканува студентите на ФИНКИ да аплицираат
+Navayo - Android System Dev
+Navayo - C++ Dev
+Navayo - Mobile App Dev
+Navayo - QA Enginee.
+        </item>
+
+        <item>
+Sample Solutions BV is looking for a focused, enthusiastic, passionate and highly motivated student or recently graduated student interested in pursuing a career in web development.
+General requirements and experience needed:
+- Experience with Wordpress
+- Experience with PHP, LAMP
+- Knowledge of SQL (MySQL or similar)
+- You have experience with WordPress theme or plugin development
+- You possess basic knowledge of HTML5, CSS3, JavaScript, and JQuery
+- You are familiar with WordPress themes
+        </item>
+
+        <item>
+            Angular:
+We’re looking for passionate developers that have general web frameworks experience (it’s a benefit if
+you have Angular specific experience). Your primary task would be to develop new modules and
+components for an extensive system. However, depending on your experience, you would be welcome
+to participate with decisions on both UX and the back end.
+        </item>
+
+        <item>
+            Компанијата SPD  објавува отворен конкурс за работа и ги поканува студентите и дипломците на ФИНКИ да аплицираат.
+SPD вработува еден кандидат без/со работно искуство за работната позиција Application Developer. Кандидатот кој ќе биде вработен ќе работи на развој и одржување на постоечкиот систем на апликации на компанијата, базирани на MS DotNet, PHP развојни алатки и Oracle/MS SQL Server бази на податоци. Кандидатите со основни познавања на наведените технологии ќе имаат предност при изборот.
+За подетални информации можете да контактирате со претставници на компанијата, како и да доставувате CV_ија преку нашата меил адреса.
+        </item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_logo">Logo</string>
+    <string name="company_needs">Отворени позиции</string>
+    <string name="email">Email:</string>
+    <string name="send">Испрати CV </string>
+    <string name="send2">Испрати</string>
+    <string name="applicate">Позиции за кои што аплицирате:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="back">Back</string>
+</resources>
